@@ -1,3 +1,3 @@
 # HongBOT
 
-Discord hong music bot
+hong music bot
